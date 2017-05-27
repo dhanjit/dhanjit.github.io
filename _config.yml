@@ -1,6 +1,8 @@
 title: Knowledge Is Beautiful
 descriptions: A quest for knowledge and the adventures throughout
-theme: minima
+theme: jekyll-theme-cayman
 google_analytics: UA-100013147-1
 disqus:
     shortname: knowledgeisbeautiful
+
+username: Dhanjit Das
